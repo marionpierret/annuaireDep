@@ -7,7 +7,7 @@ const Accueil = () => {
     return (
         <div class="row">
         <div className="text-center">
-           <h1>Bienvenue sur l'annuaire de la Seine-et-Marne!</h1>
+           <h1>Bienvenue sur l'annuaire de la Seine-et-Marne</h1>
            <p>Le site vous aidant à trouver les établissements publiques de Seine-et-Marne</p>
            <Image src={seineEtMarne} fluid thumbnail style = {{width:"60%"}} className="rounded mx-auto d-block"/>
         </div>
